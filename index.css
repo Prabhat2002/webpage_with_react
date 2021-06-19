@@ -1,0 +1,27 @@
+body
+{
+    border: 0px solid red;
+    background-image:url("https://picsum.photos/536/354");
+    background-repeat: no-repeat;
+    background-size: 100% 120%;
+    /* width:; */
+    /* width:max-content; */
+    /* height: fit-content; */
+}
+
+h1
+{
+    border: 0px solid rgb(231, 10, 21);
+    border-radius:10px;
+    font-size: 100px;
+    width: fit-content;
+    padding: 2%;
+    margin: 19% auto;
+    color: white;
+    /* background-color: blue; */
+    /* box-shadow: 10px 8px violet; */
+}
+span
+{
+    font-weight: bolder;
+}
